@@ -13,4 +13,4 @@ A very simple boinc docker configuration
 ## Scripts
 
 * **build.sh** : Just start a container using docker-compose (will be detached)
-* **upgrade.sh** : Pull newest version from the `boinc/client` image and build
+* **upgrade.sh** : Pull newest version from the [boinc/client](https://hub.docker.com/r/boinc/client) image and build
