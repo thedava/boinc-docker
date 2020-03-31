@@ -6,9 +6,8 @@ A very simple boinc docker configuration
 
 * Install docker
 * Install docker-compose
-* Create a .env file (example file is .env.example)
-* Set a secure password
-* Start boinc
+* Create a `.env` file (use the `.env.example` as template but use a secure password)
+* Start boinc (e.g. using the `build.sh`)
 
 
 ## Scripts
